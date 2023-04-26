@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Produtos e Serviços - Descrição e Imagens</title>
+  <title>Produtos e Serviços- Placa e HD - Descrição e Imagens</title>
 </head>
 <body>
-  <h1>Produtos e Serviços</h1>
+  <h1>Produtos e Serviços- Placa e HD</h1>
   <p>Descrição dos produtos e serviços aqui.</p>
   <img src="imagem2.jpg" alt="Imagem do produto ou serviço">
   <img src="imagem3.jpg" alt="Outra imagem do produto ou serviço">
